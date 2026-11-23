@@ -1,20 +1,14 @@
-
-
 git init
-
 git remote remove origin 2>/dev/null || true
 git remote add origin https://github.com/mayank11005/ug_glass.git
-
 git add .
 git commit -m "Update DSA solutions"
-
 git branch -M main
-
 git push -u origin main --force
-
 
 
 
 1)compounds targeting-
 2)optimizing the solution finding technique
-3)
+3) SHAP -https://github.com/WMD-group/Dielectric_ML/blob/master/step2_shap_analyses.ipynb
+4)
