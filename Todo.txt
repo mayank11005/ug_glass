@@ -12,3 +12,6 @@ git push -u origin main --force
 2)optimizing the solution finding technique
 3) SHAP -https://github.com/WMD-group/Dielectric_ML/blob/master/step2_shap_analyses.ipynb
 4) check this-http://vglassdata.org/de/?sessionid=sid_1375480639_1795459800899
+5) thread plotting- https://github.com/starrydata/starrydata_datasets/blob/master/RockSalt_type/PbTe_TE-Properties.ipynb
+6) thermal conducvity and electical conducvity - https://github.com/starrydata/starrydata_datasets/blob/master/datasets/20190711/20190711_preprocessing_interpolated_data.csv
+7)
