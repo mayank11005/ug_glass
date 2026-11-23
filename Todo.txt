@@ -15,4 +15,6 @@ git push -u origin main --force
 
 
 
-compounds targeting-
+1)compounds targeting-
+2)optimizing the solution finding technique
+3)
